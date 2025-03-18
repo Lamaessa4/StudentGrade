@@ -5,11 +5,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
 public class StudentGradeTest {
-    private StudentGrade studentGrade;
-    @BeforeEach
-     void setUp(){
-        studentGrade = new StudentGrade(); 
-    }
    
     @Test
      void testGetGrade95() {
