@@ -1,9 +1,7 @@
 package studentgrade;
 
-import org.junit.jupiter.api.BeforeEach;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
-
 public class StudentGradeTest {
    
     @Test
